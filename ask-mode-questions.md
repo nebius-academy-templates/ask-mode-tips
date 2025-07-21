@@ -5,19 +5,19 @@ Here are some fun questions you can ask about a file to learn more about how it 
 ## 1. What Does This Code Actually Do? 
 ```
 @monthly_sales_report.py
-"Explain what this main.py file does in simple terms. What happens when someone runs this program? Walk me through it like I'm 5 years old!"
+"Explain what this file does in simple terms. What happens when someone runs this program? Walk me through it like I'm 5 years old!"
 ```
 
 ## 2. Find the Cool Features! 
 ```
 @monthly_sales_report.py
-"What are the coolest features in this main.py file? Show me the most interesting parts and explain why they're useful. What makes this program special?"
+"What are the coolest features in this file? Show me the most interesting parts and explain why they're useful. What makes this program special?"
 ```
 
 ## 3. Break It Down Step by Step 
 ```
 @monthly_sales_report.py
-"Can you trace through what happens when I run 'python main.py sample_sales_data.csv'? Take me through each step from start to finish!"
+"Can you trace through what happens when I run 'sample_sales_data.csv'? Take me through each step from start to finish!"
 ```
 
 ## 4. Error Detective Mode 
